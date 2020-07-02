@@ -1,4 +1,4 @@
-# Github_Explorer
+# Github_Explorer (Rocketseat)
 
 Simple React JS application consuming GitHub APIs.
 
